@@ -1,5 +1,4 @@
 # eda
-O curso em análise exploratória dos dados tem como objetivo fornecer conhecimentos sobre as principais técnicas estatísticas para descrição dos dados de acordo com os objetivos específicos de uma determinada pesquisa. Ilustrar a aplicação das técnicas a conjuntos de dados reais, utilizando-se os principais pacotes estatísticos e computacionais.
 
 ## notebooks
 - [natureza dos dados](https://github.com/joaopaulq/eda/blob/main/notebooks/1_natureza_dos_dados.ipynb) (*variáveis qualitativas e variáveis quantitativas*) 
