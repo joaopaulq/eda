@@ -12,7 +12,7 @@
 - [associação de variáveis qualitativas](https://github.com/joaopaulq/eda/blob/main/notebooks/9a_associacao_variavies.ipynb) (*tabelas de contingência,
 teste qui-quadrado e gráfico de mosaico*)
 - [associação de variáveis quantitativas](https://github.com/joaopaulq/eda/blob/main/notebooks/9b_associacao_variaveis.ipynb) (*gráfico de dispersão,
-covariância, correlação e regressão linear*)
+covariância, coeficiente de correlação e regressão linear*)
 - [associação entre variáveis qualitativas e quantitativas](https://github.com/joaopaulq/eda/blob/main/notebooks/9c_associacao_variaveis.ipynb) (*boxplots e teste para
 comparação de médias*)
 - [dados multidimensionais](https://github.com/joaopaulq/eda/blob/main/notebooks/10_dados_multidimensionais.ipynb)
