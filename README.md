@@ -10,9 +10,12 @@
 6) [representação de dados qualitativos](https://github.com/joaopaulq/eda/blob/main/notebooks/6_representacao_dados_qualitativos.ipynb) (*tabela de frequências, gráfico de barras, gráfico de pareto e gráfico de setores*) 
 7) [representação de dados quantitativos](https://github.com/joaopaulq/eda/blob/main/notebooks/7_representacao_dados_quantitativos.ipynb)
 8) [séries](https://github.com/joaopaulq/eda/blob/main/notebooks/8_series.ipynb)
-9) a. [associação entre variáveis, parte 1](https://github.com/joaopaulq/eda/blob/main/notebooks/9_associacao_variavies.ipynb)
-9) b. [associação entre variáveis, parte 1](https://github.com/joaopaulq/eda/blob/main/notebooks/9_associacao_variavies.ipynb)
-9) c. [associação entre variáveis, parte 1](https://github.com/joaopaulq/eda/blob/main/notebooks/9_associacao_variavies.ipynb)
+9) [associação de variáveis qualitativas](https://github.com/joaopaulq/eda/blob/main/notebooks/9a_associacao_variavies.ipynb) (*tabelas de contingência,
+teste qui-quadrado e gráfico de mosaico*)
+9) [associação de variáveis quantitativas](https://github.com/joaopaulq/eda/blob/main/notebooks/9b_associacao_variavies.ipynb) (*gráfico de dispersão,
+covariância, correlação e regressão linear*)
+9) [associação entre variáveis qualitativas e quantitativas](https://github.com/joaopaulq/eda/blob/main/notebooks/9c_associacao_variavies.ipynb) (*boxplots e teste para
+comparação de médias*)
 11) [dados multidimensionais](https://github.com/joaopaulq/eda/blob/main/notebooks/10_dados_multidimensionais.ipynb)
 
 ## resources
