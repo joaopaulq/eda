@@ -10,8 +10,10 @@
 6) [representação de dados qualitativos](https://github.com/joaopaulq/eda/blob/main/notebooks/6_representacao_dados_qualitativos.ipynb) (*tabela de frequências, gráfico de barras, gráfico de pareto e gráfico de setores*) 
 7) [representação de dados quantitativos](https://github.com/joaopaulq/eda/blob/main/notebooks/7_representacao_dados_quantitativos.ipynb)
 8) [séries](https://github.com/joaopaulq/eda/blob/main/notebooks/8_series.ipynb)
-9) [associação entre variáveis](https://github.com/joaopaulq/eda/blob/main/notebooks/9_associacao_variavies.ipynb)
-10) [dados multidimensionais](https://github.com/joaopaulq/eda/blob/main/notebooks/10_dados_multidimensionais.ipynb)
+9) a. [associação entre variáveis, parte 1](https://github.com/joaopaulq/eda/blob/main/notebooks/9_associacao_variavies.ipynb)
+9) b. [associação entre variáveis, parte 1](https://github.com/joaopaulq/eda/blob/main/notebooks/9_associacao_variavies.ipynb)
+9) c. [associação entre variáveis, parte 1](https://github.com/joaopaulq/eda/blob/main/notebooks/9_associacao_variavies.ipynb)
+11) [dados multidimensionais](https://github.com/joaopaulq/eda/blob/main/notebooks/10_dados_multidimensionais.ipynb)
 
 ## resources
 - [usp sme0803](https://edisciplinas.usp.br/course/view.php?id=86206)
