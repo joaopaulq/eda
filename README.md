@@ -19,3 +19,4 @@ comparação de médias*)
 
 ## resources
 - [usp sme0803](https://edisciplinas.usp.br/course/view.php?id=86206)
+- ufpe et585 class notes
